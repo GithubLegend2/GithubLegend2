@@ -1,0 +1,14 @@
+print("I hate stupid idiot girls and gay niggas")
+a = 1000
+for i in range(a):
+  print("I hate stupid idiot girls and gay niggers")
+
+def kill_niggers():
+  print("1 nigger killed")
+
+kill_niggers()
+
+def kill_idiot_girls():
+  print("1 idiot girl killed")
+
+kill_idiot_girls()
